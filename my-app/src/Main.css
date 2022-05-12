@@ -1,0 +1,13 @@
+.container-fluid{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTJp3TeVSCuRiE-WXbtY9ZEfL8C2T_6y8klA&usqp=CAU");
+    
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 100vh;
+    
+}
+.container{
+    background-color:rgb(173,216,230);
+}
